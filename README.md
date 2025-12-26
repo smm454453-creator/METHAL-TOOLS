@@ -23,10 +23,3 @@ METHAL-TOOLS is a collection of automation scripts built for security researcher
 > **⚠️ Security Note:** This toolkit is clean. It contains **no modules** for DDOS, SPAM, or offensive attacks. The primary focus is **Information Gathering & Auditing**.
 
 ---
-
-## 🚀 Usage
-
-Follow these steps to run the tools on your local machine:
-
-1. **Clone the Repository**
-2. **Run**   
