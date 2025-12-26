@@ -1,21 +1,33 @@
-# METHAL-TOOLS
-This tool is only for use, not for misuse, and I hope no one uses this tool for crime. Please remember that this is still in the development stage (will receive updates from the developer)
+# METHAL-TOOLS 🛠️
+> **Professional Web Security Auditing Toolkit**
 
-**Author:** smm454453-creator/Haikal Adly
-**Version:** 1.0
-**GitHub Link:** https://github.com/smm454453-creator
+This toolkit is designed for educational purposes and authorized security auditing only. It focuses on the **Reconnaissance** phase of security testing to help researchers gather information legally and efficiently.
 
-## Description
-Web toolkit untuk:
-- IP Tracker
-- Path Discovery
-- Banner Grabber
-- Vulnerability Scanner
-- Whois Auditor
-- Header Check
+**👤 Author:** [Haikal Adly](https://github.com/smm454453-creator)  
+**🚀 Version:** 1.0  
+**⚖️ License:** MIT
 
-> Tools ini bersih: tidak ada DDOS / SPAM / Attack modules.
+---
 
-## Usage
-1. Clone repository
-2. Jalankan:
+## 📌 Description & Functionality
+METHAL-TOOLS is a collection of automation scripts built for security researchers to perform information gathering without malicious intent.
+
+### 🛡️ Core Features:
+* **IP Tracker**: Trace network details, ISP information, and geographical status of a target IP address.
+* **Path Discovery**: Perform directory fuzzing to find hidden files or unprotected admin panels on web servers.
+* **Banner Grabber**: Retrieve service banners from specific ports to identify server software versions.
+* **Vulnerability Scanner**: Conduct basic checks for common server misconfigurations.
+* **Whois Auditor**: Audit domain registration data, ownership details, and SSL certificate expiration.
+* **Header Check**: Analyze HTTP Security Headers (e.g., CSP, X-Frame-Options) to ensure protection against common web attacks.
+
+> **⚠️ Security Note:** This toolkit is clean. It contains **no modules** for DDOS, SPAM, or offensive attacks. The primary focus is **Information Gathering & Auditing**.
+
+---
+
+## 🚀 Usage
+
+Follow these steps to run the tools on your local machine:
+
+1. **Clone the Repository**
+   ```bash
+2. **Run**   
