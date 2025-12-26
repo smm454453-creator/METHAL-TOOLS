@@ -29,5 +29,4 @@ METHAL-TOOLS is a collection of automation scripts built for security researcher
 Follow these steps to run the tools on your local machine:
 
 1. **Clone the Repository**
-   ```bash
 2. **Run**   
